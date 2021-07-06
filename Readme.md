@@ -10,7 +10,6 @@
 ![Repository Size](https://img.shields.io/github/repo-size/Theheirofzeus/ShinobuRobot?style=for-the-badge&logo=appveyor)
 </br>
 
-<!––  ![LICENSE](https://img.shields.io/github/license/Theheirofzeus/ShinobuRobot?tyle=for-the-badge&logo=appveyor)––>
 [![Join Support!](https://img.shields.io/badge/Support%20Chat-ShinobuSupport-red)](https://t.me/ShinobuSupport)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/cfb691a93a064d9ea753ef2b5fccf797)](https://www.codacy.com/manual/Theheirofzeus/ShinobuRobot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Theheirofzeus/ShinobuRobot&amp;utm_campaign=Badge_Grade)
 
