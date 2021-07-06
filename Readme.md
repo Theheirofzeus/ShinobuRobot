@@ -1,4 +1,4 @@
-![SHINOBU](https://telegra.ph/file/033c4a71f60190d59c401.jpg)
+![SHINOBU](https://telegra.ph/file/7be3f1844b40a7244e803.png)
 # Shinobu // @TheShinobuRobot
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
@@ -21,7 +21,7 @@ Shinobu was built to be more useful for Anime Chats.
 
 Can be found on telegram as [SHINOBU](https://t.me/TheShinobuRobot).
 
-The Support group can be reached out to at [Shinobu Support](https://t.me/TheShinobuSupport), where you can ask for help setting up your bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available.
+The Support group can be reached out to at [Shinobu Support](https://t.me/ShinobuSupport), where you can ask for help setting up your bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available.
 
 *Enjoy!*
 
